@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Twitch Video Downloader gives creators and teams a dependable way to save Twitch videos instantly for offline viewing. Instead of juggling manual captures or questionable browser extensions, it pulls content directly from Twitch with consistent quality and predictable results.\n\nIt supports Twitch VODs and highlights in high quality, Livestream recording with automatic archiving, and Batch download streamer's entire video library, so you can move quickly from download to delivery without tedious rework. Use it to archive Twitch assets, prep client deliverables, or keep your library accessible when connectivity is limited.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "twitch-video-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Twitch Video Downloader",
+  "version": "0.0"
+}
