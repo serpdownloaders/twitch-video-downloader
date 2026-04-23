@@ -1,4 +1,4 @@
-# Twitch Video Downloader (Browser Extension)
+# Twitch Video Downloader
 
 > Download Twitch clips, VODs, and highlights as MP4 files directly from your browser. Use this page for current scope details and waitlist updates.
 
