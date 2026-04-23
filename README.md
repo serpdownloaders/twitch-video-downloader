@@ -1,6 +1,6 @@
-# Twitch Video Downloader — Coming Soon (Browser Extension)
+# Twitch Video Downloader (Browser Extension)
 
-> Download Twitch clips, VODs, and highlights as MP4 files directly from your browser. **This extension is currently in development and has not been released yet.**
+> Download Twitch clips, VODs, and highlights as MP4 files directly from your browser. Use this page for current scope details and waitlist updates.
 
 Twitch Video Downloader is an upcoming browser extension that will provide users with a seamless way to save video content from Twitch without relying on third-party desktop applications or complicated command-line utilities. It is being engineered around the Twitch web experience so you can grab clips, past broadcasts, and highlight reels while browsing channels and watching streams.
 
@@ -12,13 +12,13 @@ Twitch Video Downloader is an upcoming browser extension that will provide users
 
 ## Status
 
-**This extension is not yet available for download.** Development is in progress and a release date has not been announced. Sign up below to get notified when it launches.
+This page tracks the current scope and waitlist for the browser extension. Sign up below to get release updates.
 
-:bell: **Get notified when this launches:** [Join the waitlist](https://serp.ly/twitch-video-downloader)
+:bell: **Get release updates:** [Join the waitlist](https://serp.ly/twitch-video-downloader)
 
 ## Links
 
-- :hourglass_flowing_sand: Waitlist: [Coming Soon — Sign Up](https://serp.ly/twitch-video-downloader)
+- :hourglass_flowing_sand: Waitlist: [Join the waitlist](https://serp.ly/twitch-video-downloader)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :bulb: Request features: [GitHub Issues](https://github.com/serpapps/twitch-video-downloader/issues)
 
